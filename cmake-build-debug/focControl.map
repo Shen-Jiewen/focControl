@@ -1,0 +1,1364 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (atexit)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+                              CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj (__errno)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (exit)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_fini_array)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (memset)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o) (__register_exitproc)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o) (__call_exitprocs)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+ .data          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .rodata        0x0000000000000000       0x24 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x0000000000000000       0x70 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .debug_line    0x0000000000000000       0x87 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .debug_info    0x0000000000000000       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .debug_str     0x0000000000000000       0x95 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/gpio.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/gpio.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/gpio.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/main.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/main.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/main.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x0000000000000000        0x2 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .text._getpid  0x0000000000000000        0x4 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .text._kill    0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .text._exit    0x0000000000000000        0xc CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .text._read    0x0000000000000000       0x20 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .text._write   0x0000000000000000       0x1c CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .text._close   0x0000000000000000        0x6 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .text._fstat   0x0000000000000000        0xa CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .text._isatty  0x0000000000000000        0x4 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .text._lseek   0x0000000000000000        0x4 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .text._open    0x0000000000000000        0xa CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .text._wait    0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .text._unlink  0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .text._times   0x0000000000000000        0x6 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .text._stat    0x0000000000000000        0xa CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .text._link    0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .text._fork    0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .text._execve  0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .bss.__env     0x0000000000000000        0x4 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .data.environ  0x0000000000000000        0x4 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .debug_info    0x0000000000000000      0x7af CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .debug_abbrev  0x0000000000000000      0x1a3 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .debug_loc     0x0000000000000000      0x3c5 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .debug_aranges
+                0x0000000000000000       0xa8 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .debug_ranges  0x0000000000000000       0x98 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x0000000000000000      0x3c3 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .debug_str     0x0000000000000000      0x43b CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .debug_frame   0x0000000000000000      0x190 CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/sysmem.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/sysmem.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/sysmem.c.obj
+ .text._sbrk    0x0000000000000000       0x48 CMakeFiles/focControl.elf.dir/Core/Src/sysmem.c.obj
+ .bss.__sbrk_heap_end
+                0x0000000000000000        0x4 CMakeFiles/focControl.elf.dir/Core/Src/sysmem.c.obj
+ .debug_info    0x0000000000000000      0x15c CMakeFiles/focControl.elf.dir/Core/Src/sysmem.c.obj
+ .debug_abbrev  0x0000000000000000       0xe7 CMakeFiles/focControl.elf.dir/Core/Src/sysmem.c.obj
+ .debug_loc     0x0000000000000000       0x64 CMakeFiles/focControl.elf.dir/Core/Src/sysmem.c.obj
+ .debug_aranges
+                0x0000000000000000       0x20 CMakeFiles/focControl.elf.dir/Core/Src/sysmem.c.obj
+ .debug_ranges  0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Core/Src/sysmem.c.obj
+ .debug_line    0x0000000000000000      0x124 CMakeFiles/focControl.elf.dir/Core/Src/sysmem.c.obj
+ .debug_str     0x0000000000000000      0x252 CMakeFiles/focControl.elf.dir/Core/Src/sysmem.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/focControl.elf.dir/Core/Src/sysmem.c.obj
+ .debug_frame   0x0000000000000000       0x28 CMakeFiles/focControl.elf.dir/Core/Src/sysmem.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/focControl.elf.dir/Core/Src/sysmem.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/system_stm32g4xx.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/system_stm32g4xx.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Src/system_stm32g4xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0x90 CMakeFiles/focControl.elf.dir/Core/Src/system_stm32g4xx.c.obj
+ .rodata.APBPrescTable
+                0x0000000000000000        0x8 CMakeFiles/focControl.elf.dir/Core/Src/system_stm32g4xx.c.obj
+ .text          0x0000000000000000       0x14 CMakeFiles/focControl.elf.dir/Core/Startup/startup_stm32g431rbtx.s.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Startup/startup_stm32g431rbtx.s.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Core/Startup/startup_stm32g431rbtx.s.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_MspInit
+                0x0000000000000000        0x2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x0000000000000000        0x2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_DeInit
+                0x0000000000000000       0x2c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x0000000000000000        0xc CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x0000000000000000       0x2c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x0000000000000000        0xc CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_Delay
+                0x0000000000000000       0x28 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x0000000000000000        0xe CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x0000000000000000        0xe CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x0000000000000000        0x8 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_GetREVID
+                0x0000000000000000        0xc CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_GetUIDw0
+                0x0000000000000000        0xc CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_GetUIDw1
+                0x0000000000000000        0xc CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_GetUIDw2
+                0x0000000000000000        0xc CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_CCMSRAMErase
+                0x0000000000000000       0x18 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_EnableMemorySwappingBank
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_DisableMemorySwappingBank
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_VREFBUF_VoltageScalingConfig
+                0x0000000000000000       0x14 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_VREFBUF_HighImpedanceConfig
+                0x0000000000000000       0x14 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_VREFBUF_TrimmingConfig
+                0x0000000000000000       0x14 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_EnableVREFBUF
+                0x0000000000000000       0x34 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_DisableVREFBUF
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_EnableIOSwitchBooster
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_DisableIOSwitchBooster
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_EnableIOSwitchVDD
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_DisableIOSwitchVDD
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text.HAL_SYSCFG_CCMSRAM_WriteProtectionEnable
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_EnableIRQ
+                0x0000000000000000       0x1c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x0000000000000000       0x24 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x0000000000000000       0x24 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x0000000000000000       0x60 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x0000000000000000       0x1c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x0000000000000000       0x24 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x0000000000000000       0x1c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetActive
+                0x0000000000000000       0x24 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x0000000000000000       0x20 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x0000000000000000        0x2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x0000000000000000        0x8 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_MPU_Enable
+                0x0000000000000000       0x18 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_MPU_Disable
+                0x0000000000000000       0x14 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text.HAL_MPU_ConfigRegion
+                0x0000000000000000       0x60 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.DMA_SetConfig
+                0x0000000000000000       0x4e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.DMA_CalcDMAMUXChannelBaseAndMask
+                0x0000000000000000       0x48 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.DMA_CalcDMAMUXRequestGenBaseAndMask
+                0x0000000000000000       0x28 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_Init
+                0x0000000000000000       0xd8 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_DeInit
+                0x0000000000000000       0xb8 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_Start
+                0x0000000000000000       0x52 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_Start_IT
+                0x0000000000000000       0x94 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort
+                0x0000000000000000       0x6c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort_IT
+                0x0000000000000000       0x7e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_PollForTransfer
+                0x0000000000000000      0x11c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_IRQHandler
+                0x0000000000000000       0xc4 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_RegisterCallback
+                0x0000000000000000       0x4c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_UnRegisterCallback
+                0x0000000000000000       0x5c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_GetState
+                0x0000000000000000        0x6 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text.HAL_DMA_GetError
+                0x0000000000000000        0x4 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .debug_info    0x0000000000000000      0xa4a CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .debug_abbrev  0x0000000000000000      0x216 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .debug_loc     0x0000000000000000      0x8a0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .debug_aranges
+                0x0000000000000000       0x90 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .debug_ranges  0x0000000000000000       0x80 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .debug_line    0x0000000000000000      0xc38 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .debug_str     0x0000000000000000      0x7dc CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .debug_frame   0x0000000000000000      0x16c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_ConfigMuxSync
+                0x0000000000000000       0x56 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_ConfigMuxRequestGenerator
+                0x0000000000000000       0x5c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_EnableMuxRequestGenerator
+                0x0000000000000000       0x1e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_DisableMuxRequestGenerator
+                0x0000000000000000       0x1e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_MUX_IRQHandler
+                0x0000000000000000       0x5a CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .debug_info    0x0000000000000000      0x6ad CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .debug_abbrev  0x0000000000000000      0x1e5 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .debug_loc     0x0000000000000000      0x214 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0x40 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .debug_ranges  0x0000000000000000       0x48 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .debug_line    0x0000000000000000      0x4a2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .debug_str     0x0000000000000000      0x6af CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .debug_frame   0x0000000000000000       0x8c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .text.HAL_EXTI_SetConfigLine
+                0x0000000000000000       0xdc CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetConfigLine
+                0x0000000000000000       0xbc CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearConfigLine
+                0x0000000000000000       0xa0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .text.HAL_EXTI_RegisterCallback
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetHandle
+                0x0000000000000000        0xc CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .text.HAL_EXTI_IRQHandler
+                0x0000000000000000       0x2c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetPending
+                0x0000000000000000       0x20 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearPending
+                0x0000000000000000       0x1c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GenerateSWI
+                0x0000000000000000       0x1c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .debug_info    0x0000000000000000      0x771 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .debug_abbrev  0x0000000000000000      0x1b1 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .debug_loc     0x0000000000000000      0xae9 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .debug_aranges
+                0x0000000000000000       0x60 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .debug_ranges  0x0000000000000000       0x50 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .debug_line    0x0000000000000000      0x72e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .debug_str     0x0000000000000000      0x46c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .debug_frame   0x0000000000000000       0xf4 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.FLASH_Program_DoubleWord
+                0x0000000000000000       0x1c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.FLASH_Program_Fast
+                0x0000000000000000       0x2c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x0000000000000000        0x2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OperationErrorCallback
+                0x0000000000000000        0x2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_IRQHandler
+                0x0000000000000000      0x120 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Unlock
+                0x0000000000000000       0x30 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Lock
+                0x0000000000000000       0x1c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Unlock
+                0x0000000000000000       0x34 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Lock
+                0x0000000000000000       0x20 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_GetError
+                0x0000000000000000        0xc CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x0000000000000000       0x60 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program
+                0x0000000000000000       0xb0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program_IT
+                0x0000000000000000       0xa4 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Launch
+                0x0000000000000000       0x1c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .data.pFlash   0x0000000000000000       0x20 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .debug_info    0x0000000000000000      0x8c4 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .debug_abbrev  0x0000000000000000      0x301 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .debug_loc     0x0000000000000000      0x5fb CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .debug_aranges
+                0x0000000000000000       0x88 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .debug_ranges  0x0000000000000000       0x78 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .debug_line    0x0000000000000000      0x7fb CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .debug_str     0x0000000000000000      0x66d CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .debug_frame   0x0000000000000000      0x138 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_MassErase
+                0x0000000000000000       0x20 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetSecMem
+                0x0000000000000000       0x18 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetBootLock
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetWRP
+                0x0000000000000000       0x34 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetRDP
+                0x0000000000000000       0x18 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetUser
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetPCROP
+                0x0000000000000000       0x40 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_WRPConfig
+                0x0000000000000000       0x44 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_RDPConfig
+                0x0000000000000000       0x34 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_UserConfig
+                0x0000000000000000      0x128 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_PCROPConfig
+                0x0000000000000000       0x68 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_SecMemConfig
+                0x0000000000000000       0x3c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_BootLockConfig
+                0x0000000000000000       0x34 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBProgram
+                0x0000000000000000       0xc0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetConfig
+                0x0000000000000000       0x74 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_EnableSecMemProtection
+                0x0000000000000000       0x14 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_EnableDebugger
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_DisableDebugger
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_PageErase
+                0x0000000000000000       0x28 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase_IT
+                0x0000000000000000       0xb0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.FLASH_FlushCaches
+                0x0000000000000000       0x64 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase
+                0x0000000000000000       0xec CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .debug_info    0x0000000000000000      0xbdd CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .debug_abbrev  0x0000000000000000      0x271 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .debug_loc     0x0000000000000000      0x78d CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0xc8 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .debug_ranges  0x0000000000000000       0xb8 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .debug_line    0x0000000000000000      0xb77 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .debug_str     0x0000000000000000      0x7a0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .debug_frame   0x0000000000000000      0x1f0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .RamFunc       0x0000000000000000       0x48 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .debug_info    0x0000000000000000      0x1db CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .debug_abbrev  0x0000000000000000       0xca CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .debug_aranges
+                0x0000000000000000       0x28 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .debug_ranges  0x0000000000000000       0x18 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .debug_line    0x0000000000000000      0x1bc CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .debug_str     0x0000000000000000      0x2e2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .debug_frame   0x0000000000000000       0x30 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_Init
+                0x0000000000000000      0x1dc CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_DeInit
+                0x0000000000000000      0x11c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_ReadPin
+                0x0000000000000000        0xe CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_WritePin
+                0x0000000000000000        0xa CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_TogglePin
+                0x0000000000000000       0x12 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_LockPin
+                0x0000000000000000       0x2e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Callback
+                0x0000000000000000        0x2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x0000000000000000       0x1c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .debug_info    0x0000000000000000      0x84d CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .debug_abbrev  0x0000000000000000      0x1e6 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .debug_loc     0x0000000000000000      0x3b3 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .debug_aranges
+                0x0000000000000000       0x58 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .debug_ranges  0x0000000000000000       0x48 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .debug_line    0x0000000000000000      0x676 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .debug_str     0x0000000000000000      0x570 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .debug_frame   0x0000000000000000       0xd0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x0000000000000000       0x18 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_ConfigPVD
+                0x0000000000000000       0x84 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnablePVD
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisablePVD
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x0000000000000000       0x20 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x0000000000000000       0x14 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x0000000000000000       0x48 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x0000000000000000       0x18 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x0000000000000000       0x24 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVDCallback
+                0x0000000000000000        0x2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .debug_info    0x0000000000000000      0x984 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .debug_abbrev  0x0000000000000000      0x17e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .debug_loc     0x0000000000000000      0x1b1 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .debug_aranges
+                0x0000000000000000       0x98 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .debug_ranges  0x0000000000000000       0x88 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .debug_line    0x0000000000000000      0x424 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .debug_str     0x0000000000000000      0x6d2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .debug_frame   0x0000000000000000      0x120 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetVoltageRange
+                0x0000000000000000       0x24 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableBatteryCharging
+                0x0000000000000000       0x1c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableBatteryCharging
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableInternalWakeUpLine
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableInternalWakeUpLine
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableGPIOPullUp
+                0x0000000000000000       0xb8 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableGPIOPullUp
+                0x0000000000000000       0x8c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableGPIOPullDown
+                0x0000000000000000       0xbc CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableGPIOPullDown
+                0x0000000000000000       0x88 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnablePullUpPullDownConfig
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisablePullUpPullDownConfig
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableSRAM2ContentRetention
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableSRAM2ContentRetention
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnablePVM1
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisablePVM1
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnablePVM2
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisablePVM2
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnablePVM3
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisablePVM3
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnablePVM4
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisablePVM4
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_ConfigPVM
+                0x0000000000000000      0x1ec CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableLowPowerRunMode
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableLowPowerRunMode
+                0x0000000000000000       0x54 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnterSTOP0Mode
+                0x0000000000000000       0x38 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnterSTOP1Mode
+                0x0000000000000000       0x3c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnterSHUTDOWNMode
+                0x0000000000000000       0x24 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_PVM1Callback
+                0x0000000000000000        0x2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_PVM2Callback
+                0x0000000000000000        0x2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_PVM3Callback
+                0x0000000000000000        0x2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_PVM4Callback
+                0x0000000000000000        0x2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_PVD_PVM_IRQHandler
+                0x0000000000000000       0x78 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableUCPDStandbyMode
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableUCPDStandbyMode
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableUCPDDeadBattery
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x0000000000000000       0xcc CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x0000000000000000       0x5c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetHCLKFreq
+                0x0000000000000000        0xc CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK1Freq
+                0x0000000000000000       0x24 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK2Freq
+                0x0000000000000000       0x24 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x0000000000000000       0xf4 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x0000000000000000       0x3c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableLSECSS
+                0x0000000000000000       0x14 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableLSECSS
+                0x0000000000000000       0x14 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_CSSCallback
+                0x0000000000000000        0x2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x0000000000000000       0x20 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x0000000000000000      0x2e4 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x0000000000000000       0xb0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x0000000000000000      0x640 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_EnableLSECSS
+                0x0000000000000000       0x14 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_DisableLSECSS
+                0x0000000000000000       0x1c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_EnableLSECSS_IT
+                0x0000000000000000       0x30 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_LSECSS_Callback
+                0x0000000000000000        0x2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_LSECSS_IRQHandler
+                0x0000000000000000       0x20 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_EnableLSCO
+                0x0000000000000000       0xa0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_DisableLSCO
+                0x0000000000000000       0x6c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRSConfig
+                0x0000000000000000       0x4c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRSSoftwareSynchronizationGenerate
+                0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRSGetSynchronizationInfo
+                0x0000000000000000       0x24 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRSWaitSynchronization
+                0x0000000000000000       0xac CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRS_SyncOkCallback
+                0x0000000000000000        0x2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRS_SyncWarnCallback
+                0x0000000000000000        0x2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRS_ExpectedSyncCallback
+                0x0000000000000000        0x2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRS_ErrorCallback
+                0x0000000000000000        0x2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRS_IRQHandler
+                0x0000000000000000       0x88 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .debug_info    0x0000000000000000      0xeb7 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x0000000000000000      0x243 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .debug_loc     0x0000000000000000     0x11a5 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0xb0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .debug_ranges  0x0000000000000000       0xb8 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .debug_line    0x0000000000000000     0x104c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .debug_str     0x0000000000000000      0xa46 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .debug_frame   0x0000000000000000      0x1a0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+ .debug_info    0x0000000000000000       0x6b CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+ .debug_abbrev  0x0000000000000000       0x26 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+ .debug_aranges
+                0x0000000000000000       0x18 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+ .debug_line    0x0000000000000000       0x1d CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+ .debug_str     0x0000000000000000      0x1f2 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x33 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+ .debug_info    0x0000000000000000       0x6b CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x0000000000000000       0x26 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0x18 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+ .debug_line    0x0000000000000000       0x1d CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+ .debug_str     0x0000000000000000      0x1f5 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x33 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .text          0x0000000000000000        0xc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .debug_info    0x0000000000000000      0x914 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .debug_abbrev  0x0000000000000000      0x1be /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .debug_line    0x0000000000000000      0x109 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .debug_str     0x0000000000000000      0x564 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .text          0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .debug_info    0x0000000000000000      0x969 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .debug_abbrev  0x0000000000000000      0x20c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .debug_loc     0x0000000000000000       0x22 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .debug_line    0x0000000000000000      0x179 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .debug_str     0x0000000000000000      0x585 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .text          0x0000000000000000       0xb0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .rodata        0x0000000000000000       0x24 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x0000000000008000 xrw
+FLASH            0x0000000008000000 0x0000000000020000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+LOAD CMakeFiles/focControl.elf.dir/Core/Src/gpio.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Core/Src/main.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Core/Src/syscalls.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Core/Src/sysmem.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Core/Src/system_stm32g4xx.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Core/Startup/startup_stm32g431rbtx.s.obj
+LOAD CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_dma_ex.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_exti.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ex.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc_ex.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.c.obj
+LOAD CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.c.obj
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc.a
+END GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+                0x0000000020008000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x1d8
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x1d8 CMakeFiles/focControl.elf.dir/Core/Startup/startup_stm32g431rbtx.s.obj
+                0x0000000008000000                g_pfnVectors
+                0x00000000080001d8                . = ALIGN (0x4)
+
+.text           0x00000000080001d8      0xdc4
+                0x00000000080001d8                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000000080001d8       0x88 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x0000000008000260        0xc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+                0x0000000008000260                atexit
+ .text          0x000000000800026c       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+                0x000000000800026c                __libc_fini_array
+ .text          0x0000000008000298       0x48 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+                0x0000000008000298                __libc_init_array
+ .text          0x00000000080002e0       0xa4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+                0x00000000080002e0                memset
+ .text          0x0000000008000384       0x68 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+                0x0000000008000384                __register_exitproc
+ *(.text*)
+ .text.MX_GPIO_Init
+                0x00000000080003ec       0x30 CMakeFiles/focControl.elf.dir/Core/Src/gpio.c.obj
+                0x00000000080003ec                MX_GPIO_Init
+ .text.Error_Handler
+                0x000000000800041c        0x4 CMakeFiles/focControl.elf.dir/Core/Src/main.c.obj
+                0x000000000800041c                Error_Handler
+ .text.SystemClock_Config
+                0x0000000008000420       0x6e CMakeFiles/focControl.elf.dir/Core/Src/main.c.obj
+                0x0000000008000420                SystemClock_Config
+ .text.main     0x000000000800048e       0x10 CMakeFiles/focControl.elf.dir/Core/Src/main.c.obj
+                0x000000000800048e                main
+ *fill*         0x000000000800049e        0x2 
+ .text.HAL_MspInit
+                0x00000000080004a0       0x38 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+                0x00000000080004a0                HAL_MspInit
+ .text.NMI_Handler
+                0x00000000080004d8        0x2 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+                0x00000000080004d8                NMI_Handler
+ .text.HardFault_Handler
+                0x00000000080004da        0x2 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+                0x00000000080004da                HardFault_Handler
+ .text.MemManage_Handler
+                0x00000000080004dc        0x2 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+                0x00000000080004dc                MemManage_Handler
+ .text.BusFault_Handler
+                0x00000000080004de        0x2 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+                0x00000000080004de                BusFault_Handler
+ .text.UsageFault_Handler
+                0x00000000080004e0        0x2 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+                0x00000000080004e0                UsageFault_Handler
+ .text.SVC_Handler
+                0x00000000080004e2        0x2 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+                0x00000000080004e2                SVC_Handler
+ .text.DebugMon_Handler
+                0x00000000080004e4        0x2 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+                0x00000000080004e4                DebugMon_Handler
+ .text.PendSV_Handler
+                0x00000000080004e6        0x2 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+                0x00000000080004e6                PendSV_Handler
+ .text.SysTick_Handler
+                0x00000000080004e8        0x8 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+                0x00000000080004e8                SysTick_Handler
+ .text.SystemInit
+                0x00000000080004f0        0x2 CMakeFiles/focControl.elf.dir/Core/Src/system_stm32g4xx.c.obj
+                0x00000000080004f0                SystemInit
+ *fill*         0x00000000080004f2        0x2 
+ .text.Reset_Handler
+                0x00000000080004f4       0x50 CMakeFiles/focControl.elf.dir/Core/Startup/startup_stm32g431rbtx.s.obj
+                0x00000000080004f4                Reset_Handler
+ .text.Default_Handler
+                0x0000000008000544        0x2 CMakeFiles/focControl.elf.dir/Core/Startup/startup_stm32g431rbtx.s.obj
+                0x0000000008000544                RTC_Alarm_IRQHandler
+                0x0000000008000544                EXTI2_IRQHandler
+                0x0000000008000544                TIM8_TRG_COM_IRQHandler
+                0x0000000008000544                TIM8_CC_IRQHandler
+                0x0000000008000544                TIM1_CC_IRQHandler
+                0x0000000008000544                USB_HP_IRQHandler
+                0x0000000008000544                CORDIC_IRQHandler
+                0x0000000008000544                EXTI3_IRQHandler
+                0x0000000008000544                I2C3_ER_IRQHandler
+                0x0000000008000544                EXTI0_IRQHandler
+                0x0000000008000544                I2C2_EV_IRQHandler
+                0x0000000008000544                FPU_IRQHandler
+                0x0000000008000544                FDCAN1_IT1_IRQHandler
+                0x0000000008000544                TIM1_UP_TIM16_IRQHandler
+                0x0000000008000544                ADC1_2_IRQHandler
+                0x0000000008000544                SPI1_IRQHandler
+                0x0000000008000544                TIM6_DAC_IRQHandler
+                0x0000000008000544                TIM8_UP_IRQHandler
+                0x0000000008000544                DMA2_Channel2_IRQHandler
+                0x0000000008000544                DMA1_Channel4_IRQHandler
+                0x0000000008000544                USART3_IRQHandler
+                0x0000000008000544                TIM4_IRQHandler
+                0x0000000008000544                DMA2_Channel1_IRQHandler
+                0x0000000008000544                I2C1_EV_IRQHandler
+                0x0000000008000544                DMA1_Channel6_IRQHandler
+                0x0000000008000544                UART4_IRQHandler
+                0x0000000008000544                DMA2_Channel4_IRQHandler
+                0x0000000008000544                TIM3_IRQHandler
+                0x0000000008000544                RCC_IRQHandler
+                0x0000000008000544                DMA1_Channel1_IRQHandler
+                0x0000000008000544                Default_Handler
+                0x0000000008000544                RTC_TAMP_LSECSS_IRQHandler
+                0x0000000008000544                FMAC_IRQHandler
+                0x0000000008000544                EXTI15_10_IRQHandler
+                0x0000000008000544                TIM7_IRQHandler
+                0x0000000008000544                UCPD1_IRQHandler
+                0x0000000008000544                I2C3_EV_IRQHandler
+                0x0000000008000544                EXTI9_5_IRQHandler
+                0x0000000008000544                RTC_WKUP_IRQHandler
+                0x0000000008000544                PVD_PVM_IRQHandler
+                0x0000000008000544                SPI2_IRQHandler
+                0x0000000008000544                DMA2_Channel5_IRQHandler
+                0x0000000008000544                CRS_IRQHandler
+                0x0000000008000544                DMA1_Channel5_IRQHandler
+                0x0000000008000544                USB_LP_IRQHandler
+                0x0000000008000544                EXTI4_IRQHandler
+                0x0000000008000544                RNG_IRQHandler
+                0x0000000008000544                TIM1_TRG_COM_TIM17_IRQHandler
+                0x0000000008000544                DMA1_Channel3_IRQHandler
+                0x0000000008000544                WWDG_IRQHandler
+                0x0000000008000544                LPUART1_IRQHandler
+                0x0000000008000544                DMA2_Channel6_IRQHandler
+                0x0000000008000544                FDCAN1_IT0_IRQHandler
+                0x0000000008000544                TIM2_IRQHandler
+                0x0000000008000544                COMP1_2_3_IRQHandler
+                0x0000000008000544                EXTI1_IRQHandler
+                0x0000000008000544                USART2_IRQHandler
+                0x0000000008000544                I2C2_ER_IRQHandler
+                0x0000000008000544                DMA1_Channel2_IRQHandler
+                0x0000000008000544                TIM8_BRK_IRQHandler
+                0x0000000008000544                FLASH_IRQHandler
+                0x0000000008000544                USART1_IRQHandler
+                0x0000000008000544                SPI3_IRQHandler
+                0x0000000008000544                I2C1_ER_IRQHandler
+                0x0000000008000544                LPTIM1_IRQHandler
+                0x0000000008000544                DMAMUX_OVR_IRQHandler
+                0x0000000008000544                USBWakeUp_IRQHandler
+                0x0000000008000544                SAI1_IRQHandler
+                0x0000000008000544                DMA2_Channel3_IRQHandler
+                0x0000000008000544                COMP4_IRQHandler
+                0x0000000008000544                TIM1_BRK_TIM15_IRQHandler
+ *fill*         0x0000000008000546        0x2 
+ .text.HAL_InitTick
+                0x0000000008000548       0x50 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                0x0000000008000548                HAL_InitTick
+ .text.HAL_Init
+                0x0000000008000598       0x1e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                0x0000000008000598                HAL_Init
+ *fill*         0x00000000080005b6        0x2 
+ .text.HAL_IncTick
+                0x00000000080005b8       0x18 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                0x00000000080005b8                HAL_IncTick
+ .text.HAL_GetTick
+                0x00000000080005d0        0xc CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                0x00000000080005d0                HAL_GetTick
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x00000000080005dc       0x24 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+                0x00000000080005dc                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x0000000008000600       0x70 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+                0x0000000008000600                HAL_NVIC_SetPriority
+ .text.HAL_SYSTICK_Config
+                0x0000000008000670       0x28 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+                0x0000000008000670                HAL_SYSTICK_Config
+ .text.HAL_PWREx_ControlVoltageScaling
+                0x0000000008000698      0x10c CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+                0x0000000008000698                HAL_PWREx_ControlVoltageScaling
+ .text.HAL_PWREx_DisableUCPDDeadBattery
+                0x00000000080007a4       0x10 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+                0x00000000080007a4                HAL_PWREx_DisableUCPDDeadBattery
+ .text.RCC_GetSysClockFreqFromPLLSource
+                0x00000000080007b4       0x58 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .text.HAL_RCC_OscConfig
+                0x000000000800080c      0x4e4 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+                0x000000000800080c                HAL_RCC_OscConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x0000000008000cf0       0x88 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+                0x0000000008000cf0                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_ClockConfig
+                0x0000000008000d78      0x1f8 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+                0x0000000008000d78                HAL_RCC_ClockConfig
+ .text.startup  0x0000000008000f70       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ *(.glue_7)
+ .glue_7        0x0000000008000f84        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000008000f84        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0000000008000f84        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x0000000008000f84        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+                0x0000000008000f84                _init
+ .init          0x0000000008000f88        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x0000000008000f90        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+                0x0000000008000f90                _fini
+ .fini          0x0000000008000f94        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+                0x0000000008000f9c                . = ALIGN (0x4)
+                0x0000000008000f9c                _etext = .
+
+.vfp11_veneer   0x0000000008000f9c        0x0
+ .vfp11_veneer  0x0000000008000f9c        0x0 linker stubs
+
+.v4_bx          0x0000000008000f9c        0x0
+ .v4_bx         0x0000000008000f9c        0x0 linker stubs
+
+.iplt           0x0000000008000f9c        0x0
+ .iplt          0x0000000008000f9c        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+
+.rodata         0x0000000008000f9c       0x14
+                0x0000000008000f9c                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x0000000008000f9c        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+                0x0000000008000f9c                _global_impure_ptr
+ *(.rodata*)
+ .rodata.AHBPrescTable
+                0x0000000008000fa0       0x10 CMakeFiles/focControl.elf.dir/Core/Src/system_stm32g4xx.c.obj
+                0x0000000008000fa0                AHBPrescTable
+                0x0000000008000fb0                . = ALIGN (0x4)
+
+.rel.dyn        0x0000000008000fb0        0x0
+ .rel.iplt      0x0000000008000fb0        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+
+.ARM.extab      0x0000000008000fb0        0x0
+                0x0000000008000fb0                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000008000fb0                . = ALIGN (0x4)
+
+.ARM            0x0000000008000fb0        0x0
+                0x0000000008000fb0                . = ALIGN (0x4)
+                0x0000000008000fb0                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000008000fb0                __exidx_end = .
+                0x0000000008000fb0                . = ALIGN (0x4)
+
+.preinit_array  0x0000000008000fb0        0x0
+                0x0000000008000fb0                . = ALIGN (0x4)
+                0x0000000008000fb0                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0000000008000fb0                PROVIDE (__preinit_array_end = .)
+                0x0000000008000fb0                . = ALIGN (0x4)
+
+.init_array     0x0000000008000fb0        0x8
+                0x0000000008000fb0                . = ALIGN (0x4)
+                0x0000000008000fb0                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x0000000008000fb0        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x0000000008000fb4        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x0000000008000fb8                PROVIDE (__init_array_end = .)
+                0x0000000008000fb8                . = ALIGN (0x4)
+
+.fini_array     0x0000000008000fb8        0x4
+                0x0000000008000fb8                . = ALIGN (0x4)
+                0x0000000008000fb8                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000008000fb8        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x0000000008000fbc                PROVIDE (__fini_array_end = .)
+                0x0000000008000fbc                . = ALIGN (0x4)
+                0x0000000008000fbc                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000      0x43c load address 0x0000000008000fbc
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ .data          0x0000000020000000      0x430 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+                0x0000000020000000                _impure_ptr
+ *(.data*)
+ .data.SystemCoreClock
+                0x0000000020000430        0x4 CMakeFiles/focControl.elf.dir/Core/Src/system_stm32g4xx.c.obj
+                0x0000000020000430                SystemCoreClock
+ .data.uwTickFreq
+                0x0000000020000434        0x4 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                0x0000000020000434                uwTickFreq
+ .data.uwTickPrio
+                0x0000000020000438        0x4 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                0x0000000020000438                uwTickPrio
+ *(.RamFunc)
+ *(.RamFunc*)
+                0x000000002000043c                . = ALIGN (0x4)
+                0x000000002000043c                _edata = .
+
+.tm_clone_table
+                0x000000002000043c        0x0 load address 0x00000000080013f8
+ .tm_clone_table
+                0x000000002000043c        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .tm_clone_table
+                0x000000002000043c        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+
+.igot.plt       0x000000002000043c        0x0 load address 0x00000000080013f8
+ .igot.plt      0x000000002000043c        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x000000002000043c                . = ALIGN (0x4)
+
+.bss            0x000000002000043c       0x20 load address 0x00000000080013f8
+                0x000000002000043c                _sbss = .
+                0x000000002000043c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x000000002000043c       0x1c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.bss*)
+ .bss.uwTick    0x0000000020000458        0x4 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                0x0000000020000458                uwTick
+ *(COMMON)
+                0x000000002000045c                . = ALIGN (0x4)
+                0x000000002000045c                _ebss = .
+                0x000000002000045c                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x000000002000045c      0x604 load address 0x00000000080013f8
+                0x0000000020000460                . = ALIGN (0x8)
+ *fill*         0x000000002000045c        0x4 
+                [!provide]                        PROVIDE (end = .)
+                0x0000000020000460                PROVIDE (_end = .)
+                0x0000000020000660                . = (. + _Min_Heap_Size)
+ *fill*         0x0000000020000460      0x200 
+                0x0000000020000a60                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020000660      0x400 
+                0x0000000020000a60                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x2a
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x000000000000004c       0x2e CMakeFiles/focControl.elf.dir/Core/Src/gpio.c.obj
+ .ARM.attributes
+                0x000000000000007a       0x2e CMakeFiles/focControl.elf.dir/Core/Src/main.c.obj
+ .ARM.attributes
+                0x00000000000000a8       0x2e CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .ARM.attributes
+                0x00000000000000d6       0x2e CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+ .ARM.attributes
+                0x0000000000000104       0x2e CMakeFiles/focControl.elf.dir/Core/Src/system_stm32g4xx.c.obj
+ .ARM.attributes
+                0x0000000000000132       0x21 CMakeFiles/focControl.elf.dir/Core/Startup/startup_stm32g431rbtx.s.obj
+ .ARM.attributes
+                0x0000000000000153       0x2e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .ARM.attributes
+                0x0000000000000181       0x2e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .ARM.attributes
+                0x00000000000001af       0x2e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .ARM.attributes
+                0x00000000000001dd       0x2e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .ARM.attributes
+                0x000000000000020b       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000239       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000267       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000295       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000002c3       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000002f1       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000000000000031f       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000000000000034d       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x000000000000037b       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+OUTPUT(focControl.elf elf32-littlearm)
+LOAD linker stubs
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc.a
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libm.a
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a
+
+.comment        0x0000000000000000       0x33
+ .comment       0x0000000000000000       0x33 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+                                         0x34 (size before relaxing)
+ .comment       0x0000000000000033       0x34 CMakeFiles/focControl.elf.dir/Core/Src/gpio.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/focControl.elf.dir/Core/Src/main.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/focControl.elf.dir/Core/Src/system_stm32g4xx.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+
+.debug_info     0x0000000000000000     0x6463
+ .debug_info    0x0000000000000000      0x314 CMakeFiles/focControl.elf.dir/Core/Src/gpio.c.obj
+ .debug_info    0x0000000000000314      0x34a CMakeFiles/focControl.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x000000000000065e      0x332 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .debug_info    0x0000000000000990      0x130 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+ .debug_info    0x0000000000000ac0      0x3e1 CMakeFiles/focControl.elf.dir/Core/Src/system_stm32g4xx.c.obj
+ .debug_info    0x0000000000000ea1       0x22 CMakeFiles/focControl.elf.dir/Core/Startup/startup_stm32g431rbtx.s.obj
+ .debug_info    0x0000000000000ec3      0xbac CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .debug_info    0x0000000000001a6f     0x101d CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .debug_info    0x0000000000002a8c      0x9ef CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .debug_info    0x000000000000347b      0xe7e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .debug_info    0x00000000000042f9      0x100 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .debug_info    0x00000000000043f9      0x102 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .debug_info    0x00000000000044fb      0x92a /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .debug_info    0x0000000000004e25      0x11a /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .debug_info    0x0000000000004f3f      0x137 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .debug_info    0x0000000000005076      0x9b0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .debug_info    0x0000000000005a26      0xa3d /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+
+.debug_abbrev   0x0000000000000000     0x1893
+ .debug_abbrev  0x0000000000000000       0xbf CMakeFiles/focControl.elf.dir/Core/Src/gpio.c.obj
+ .debug_abbrev  0x00000000000000bf      0x153 CMakeFiles/focControl.elf.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x0000000000000212       0xd6 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .debug_abbrev  0x00000000000002e8       0x7e CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+ .debug_abbrev  0x0000000000000366      0x119 CMakeFiles/focControl.elf.dir/Core/Src/system_stm32g4xx.c.obj
+ .debug_abbrev  0x000000000000047f       0x12 CMakeFiles/focControl.elf.dir/Core/Startup/startup_stm32g431rbtx.s.obj
+ .debug_abbrev  0x0000000000000491      0x23e CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .debug_abbrev  0x00000000000006cf      0x361 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .debug_abbrev  0x0000000000000a30      0x245 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .debug_abbrev  0x0000000000000c75      0x26f CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .debug_abbrev  0x0000000000000ee4       0xb7 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .debug_abbrev  0x0000000000000f9b       0xcf /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .debug_abbrev  0x000000000000106a      0x1b8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000001222       0xcc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .debug_abbrev  0x00000000000012ee       0xb4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .debug_abbrev  0x00000000000013a2      0x23f /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .debug_abbrev  0x00000000000015e1      0x2b2 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+
+.debug_aranges  0x0000000000000000      0x5c8
+ .debug_aranges
+                0x0000000000000000       0x20 CMakeFiles/focControl.elf.dir/Core/Src/gpio.c.obj
+ .debug_aranges
+                0x0000000000000020       0x30 CMakeFiles/focControl.elf.dir/Core/Src/main.c.obj
+ .debug_aranges
+                0x0000000000000050       0x20 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .debug_aranges
+                0x0000000000000070       0x60 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+ .debug_aranges
+                0x00000000000000d0       0x28 CMakeFiles/focControl.elf.dir/Core/Src/system_stm32g4xx.c.obj
+ .debug_aranges
+                0x00000000000000f8       0x28 CMakeFiles/focControl.elf.dir/Core/Startup/startup_stm32g431rbtx.s.obj
+ .debug_aranges
+                0x0000000000000120      0x148 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .debug_aranges
+                0x0000000000000268       0xa8 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .debug_aranges
+                0x0000000000000310      0x140 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .debug_aranges
+                0x0000000000000450       0x98 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .debug_aranges
+                0x00000000000004e8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .debug_aranges
+                0x0000000000000508       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .debug_aranges
+                0x0000000000000528       0x18 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000540       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .debug_aranges
+                0x0000000000000560       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .debug_aranges
+                0x0000000000000580       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x00000000000005a0       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+
+.debug_ranges   0x0000000000000000      0x518
+ .debug_ranges  0x0000000000000000       0x10 CMakeFiles/focControl.elf.dir/Core/Src/gpio.c.obj
+ .debug_ranges  0x0000000000000010       0x20 CMakeFiles/focControl.elf.dir/Core/Src/main.c.obj
+ .debug_ranges  0x0000000000000030       0x10 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .debug_ranges  0x0000000000000040       0x50 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+ .debug_ranges  0x0000000000000090       0x18 CMakeFiles/focControl.elf.dir/Core/Src/system_stm32g4xx.c.obj
+ .debug_ranges  0x00000000000000a8       0x20 CMakeFiles/focControl.elf.dir/Core/Startup/startup_stm32g431rbtx.s.obj
+ .debug_ranges  0x00000000000000c8      0x138 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .debug_ranges  0x0000000000000200       0xf8 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .debug_ranges  0x00000000000002f8      0x130 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .debug_ranges  0x0000000000000428       0xa0 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .debug_ranges  0x00000000000004c8       0x50 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+
+.debug_line     0x0000000000000000     0x3a7c
+ .debug_line    0x0000000000000000      0x11a CMakeFiles/focControl.elf.dir/Core/Src/gpio.c.obj
+ .debug_line    0x000000000000011a      0x2e4 CMakeFiles/focControl.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x00000000000003fe      0x18f CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .debug_line    0x000000000000058d      0x1cf CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+ .debug_line    0x000000000000075c      0x1df CMakeFiles/focControl.elf.dir/Core/Src/system_stm32g4xx.c.obj
+ .debug_line    0x000000000000093b       0xb1 CMakeFiles/focControl.elf.dir/Core/Startup/startup_stm32g431rbtx.s.obj
+ .debug_line    0x00000000000009ec      0x6ec CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .debug_line    0x00000000000010d8      0x781 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .debug_line    0x0000000000001859      0xa8b CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .debug_line    0x00000000000022e4      0xdde CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .debug_line    0x00000000000030c2       0xc0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .debug_line    0x0000000000003182       0xed /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .debug_line    0x000000000000326f       0xe4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .debug_line    0x0000000000003353      0x138 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .debug_line    0x000000000000348b      0x1bf /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .debug_line    0x000000000000364a      0x19e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .debug_line    0x00000000000037e8      0x294 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+
+.debug_str      0x0000000000000000     0x262b
+ .debug_str     0x0000000000000000      0x303 CMakeFiles/focControl.elf.dir/Core/Src/gpio.c.obj
+                                        0x33c (size before relaxing)
+ .debug_str     0x0000000000000303      0x209 CMakeFiles/focControl.elf.dir/Core/Src/main.c.obj
+                                        0x3c2 (size before relaxing)
+ .debug_str     0x000000000000050c       0x75 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+                                        0x369 (size before relaxing)
+ .debug_str     0x0000000000000581       0xdf CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+                                        0x271 (size before relaxing)
+ .debug_str     0x0000000000000660       0xb7 CMakeFiles/focControl.elf.dir/Core/Src/system_stm32g4xx.c.obj
+                                        0x3a4 (size before relaxing)
+ .debug_str     0x0000000000000717       0x5c CMakeFiles/focControl.elf.dir/Core/Startup/startup_stm32g431rbtx.s.obj
+                                         0x99 (size before relaxing)
+ .debug_str     0x0000000000000773      0x93a CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+                                        0xc9d (size before relaxing)
+ .debug_str     0x00000000000010ad      0x4d1 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+                                        0xbb1 (size before relaxing)
+ .debug_str     0x000000000000157e      0x55a CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+                                        0x813 (size before relaxing)
+ .debug_str     0x0000000000001ad8      0x2f7 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+                                        0x860 (size before relaxing)
+ .debug_str     0x0000000000001dcf      0x142 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+                                        0x1de (size before relaxing)
+ .debug_str     0x0000000000001f11       0xc5 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+                                        0x1d6 (size before relaxing)
+ .debug_str     0x0000000000001fd6      0x450 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+                                        0x57c (size before relaxing)
+ .debug_str     0x0000000000002426       0x96 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+                                        0x200 (size before relaxing)
+ .debug_str     0x00000000000024bc       0xa2 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+                                        0x1b5 (size before relaxing)
+ .debug_str     0x000000000000255e       0x3b /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+                                        0x5b6 (size before relaxing)
+ .debug_str     0x0000000000002599       0x92 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+                                        0x5e2 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0xaa0
+ .debug_frame   0x0000000000000000       0x28 CMakeFiles/focControl.elf.dir/Core/Src/gpio.c.obj
+ .debug_frame   0x0000000000000028       0x58 CMakeFiles/focControl.elf.dir/Core/Src/main.c.obj
+ .debug_frame   0x0000000000000080       0x2c CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_hal_msp.c.obj
+ .debug_frame   0x00000000000000ac       0xa8 CMakeFiles/focControl.elf.dir/Core/Src/stm32g4xx_it.c.obj
+ .debug_frame   0x0000000000000154       0x30 CMakeFiles/focControl.elf.dir/Core/Src/system_stm32g4xx.c.obj
+ .debug_frame   0x0000000000000184      0x2a4 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .debug_frame   0x0000000000000428      0x148 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .debug_frame   0x0000000000000570      0x268 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .debug_frame   0x00000000000007d8      0x198 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .debug_frame   0x0000000000000970       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000990       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .debug_frame   0x00000000000009c4       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .debug_frame   0x00000000000009f0       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000a1c       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000a50       0x50 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+
+.debug_loc      0x0000000000000000     0x227b
+ .debug_loc     0x0000000000000000       0x9d CMakeFiles/focControl.elf.dir/Core/Src/system_stm32g4xx.c.obj
+ .debug_loc     0x000000000000009d      0x1ef CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.c.obj
+ .debug_loc     0x000000000000028c      0x736 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.c.obj
+ .debug_loc     0x00000000000009c2      0xa06 CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.c.obj
+ .debug_loc     0x00000000000013c8      0x84d CMakeFiles/focControl.elf.dir/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.c.obj
+ .debug_loc     0x0000000000001c15       0x32 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .debug_loc     0x0000000000001c47       0x68 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .debug_loc     0x0000000000001caf       0xba /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .debug_loc     0x0000000000001d69      0x22c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .debug_loc     0x0000000000001f95      0x138 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .debug_loc     0x00000000000020cd      0x1ae /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)

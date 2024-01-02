@@ -1,0 +1,3 @@
+/home/javen/CLionProjects/STM32/focControl/cmake-build-debug/CMakeFiles/focControl.elf.dir
+/home/javen/CLionProjects/STM32/focControl/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/javen/CLionProjects/STM32/focControl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
