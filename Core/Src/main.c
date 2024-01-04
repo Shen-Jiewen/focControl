@@ -18,11 +18,13 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
+#include "spi.h"
 #include "gpio.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "lcd.h"
+//#include "picture.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -64,7 +66,7 @@ void SystemClock_Config(void);
 int main(void)
 {
   /* USER CODE BEGIN 1 */
-
+	float t = 0;
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
@@ -85,14 +87,25 @@ int main(void)
 
   /* Initialize all configured peripherals */
   MX_GPIO_Init();
+  MX_SPI3_Init();
   /* USER CODE BEGIN 2 */
-
+	HAL_GPIO_WritePin(LED1_GPIO_Port,LED1_Pin,GPIO_PIN_SET);
+	Lcd_Init();
+	Lcd_Clear(BLACK);
+	Lcd_print( 0,   0,   RED, "IO impulse");
+	Lcd_print( 0,  30,  BLUE, "IO impulse");
+	Lcd_print( 0,  60, GREEN, "IO impulse");
+	Lcd_print(45, 110, LIGHTBLUE, "2023-01-01 00:00:01");
+	HAL_Delay(1000);
+//	Lcd_ShowPicture(0, 0, 240, 135, gImage_picture1);
+	HAL_GPIO_WritePin(LED2_GPIO_Port,LED2_Pin,GPIO_PIN_SET);
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */

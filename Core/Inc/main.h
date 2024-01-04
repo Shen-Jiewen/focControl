@@ -36,7 +36,9 @@ extern "C" {
 
 /* Exported types ------------------------------------------------------------*/
 /* USER CODE BEGIN ET */
-
+typedef uint32_t u32;
+typedef uint16_t u16;
+typedef uint8_t u8;
 /* USER CODE END ET */
 
 /* Exported constants --------------------------------------------------------*/
@@ -57,6 +59,24 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define LED1_Pin GPIO_PIN_13
+#define LED1_GPIO_Port GPIOC
+#define LED2_Pin GPIO_PIN_14
+#define LED2_GPIO_Port GPIOC
+#define LED3_Pin GPIO_PIN_15
+#define LED3_GPIO_Port GPIOC
+#define LCD_RES_Pin GPIO_PIN_15
+#define LCD_RES_GPIO_Port GPIOA
+#define LCD_SCK_Pin GPIO_PIN_10
+#define LCD_SCK_GPIO_Port GPIOC
+#define LCD_DC_Pin GPIO_PIN_11
+#define LCD_DC_GPIO_Port GPIOC
+#define LCD_SDA_Pin GPIO_PIN_12
+#define LCD_SDA_GPIO_Port GPIOC
+#define LCD_CS_Pin GPIO_PIN_2
+#define LCD_CS_GPIO_Port GPIOD
+#define LCD_BLK_Pin GPIO_PIN_7
+#define LCD_BLK_GPIO_Port GPIOB
 
 /* USER CODE BEGIN Private defines */
 
