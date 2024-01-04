@@ -1,0 +1,36 @@
+foccontrol\st7789.o: ..\Core\Src\st7789.c
+foccontrol\st7789.o: ../Core/Inc/st7789.h
+foccontrol\st7789.o: ../Core/Inc/fonts.h
+foccontrol\st7789.o: D:\Program Files\Keil_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+foccontrol\st7789.o: ../Core/Inc/main.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal.h
+foccontrol\st7789.o: ../Core/Inc/stm32g4xx_hal_conf.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_rcc.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_def.h
+foccontrol\st7789.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g4xx.h
+foccontrol\st7789.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g431xx.h
+foccontrol\st7789.o: ../Drivers/CMSIS/Include/core_cm4.h
+foccontrol\st7789.o: ../Drivers/CMSIS/Include/cmsis_version.h
+foccontrol\st7789.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+foccontrol\st7789.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+foccontrol\st7789.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+foccontrol\st7789.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/system_stm32g4xx.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+foccontrol\st7789.o: D:\Program Files\Keil_ARM\ARM\ARMCC\Bin\..\include\stddef.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_rcc_ex.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_gpio.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_gpio_ex.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_dma.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_dma_ex.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_cortex.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_exti.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash_ex.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash_ramfunc.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_pwr.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_pwr_ex.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_spi.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_spi_ex.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_uart.h
+foccontrol\st7789.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_uart_ex.h

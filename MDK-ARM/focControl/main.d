@@ -30,6 +30,10 @@ foccontrol\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_pwr.h
 foccontrol\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_pwr_ex.h
 foccontrol\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_spi.h
 foccontrol\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_spi_ex.h
+foccontrol\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_uart.h
+foccontrol\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_uart_ex.h
 foccontrol\main.o: ../Core/Inc/spi.h
+foccontrol\main.o: ../Core/Inc/usart.h
 foccontrol\main.o: ../Core/Inc/gpio.h
-foccontrol\main.o: ../Core/Inc/lcd.h
+foccontrol\main.o: ../Core/Inc/st7789.h
+foccontrol\main.o: ../Core/Inc/fonts.h

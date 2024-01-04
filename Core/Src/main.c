@@ -19,11 +19,12 @@
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
 #include "spi.h"
+#include "usart.h"
 #include "gpio.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-#include "lcd.h"
+#include "st7789.h"
 //#include "picture.h"
 /* USER CODE END Includes */
 
@@ -88,15 +89,11 @@ int main(void)
   /* Initialize all configured peripherals */
   MX_GPIO_Init();
   MX_SPI3_Init();
+  MX_USART3_UART_Init();
   /* USER CODE BEGIN 2 */
 	HAL_GPIO_WritePin(LED1_GPIO_Port,LED1_Pin,GPIO_PIN_SET);
-	Lcd_Init();
-	Lcd_Clear(BLACK);
-	Lcd_print( 0,   0,   RED, "IO impulse");
-	Lcd_print( 0,  30,  BLUE, "IO impulse");
-	Lcd_print( 0,  60, GREEN, "IO impulse");
-	Lcd_print(45, 110, LIGHTBLUE, "2023-01-01 00:00:01");
-	HAL_Delay(1000);
+	ST7789_Init();
+	ST7789_Test();
 //	Lcd_ShowPicture(0, 0, 240, 135, gImage_picture1);
 	HAL_GPIO_WritePin(LED2_GPIO_Port,LED2_Pin,GPIO_PIN_SET);
   /* USER CODE END 2 */
@@ -105,7 +102,8 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-
+//		HAL_UART_Transmit(&huart3,(uint8_t *)0x11,1,0xffff);
+//		HAL_Delay(20);
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */

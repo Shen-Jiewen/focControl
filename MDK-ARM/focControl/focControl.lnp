@@ -3,6 +3,7 @@
 "foccontrol\main.o"
 "foccontrol\gpio.o"
 "foccontrol\spi.o"
+"foccontrol\usart.o"
 "foccontrol\stm32g4xx_it.o"
 "foccontrol\stm32g4xx_hal_msp.o"
 "foccontrol\stm32g4xx_hal_spi.o"
@@ -22,8 +23,11 @@
 "foccontrol\stm32g4xx_hal_cortex.o"
 "foccontrol\stm32g4xx_hal_tim.o"
 "foccontrol\stm32g4xx_hal_tim_ex.o"
+"foccontrol\stm32g4xx_hal_uart.o"
+"foccontrol\stm32g4xx_hal_uart_ex.o"
 "foccontrol\system_stm32g4xx.o"
-"foccontrol\lcd.o"
+"foccontrol\st7789.o"
+"foccontrol\fonts.o"
 --library_type=microlib --strict --scatter "focControl\focControl.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers
