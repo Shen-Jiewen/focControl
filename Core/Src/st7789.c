@@ -228,8 +228,8 @@ void ST7789_Fill_Color(uint16_t color)
  */
 void ST7789_DrawPixel(uint16_t x, uint16_t y, uint16_t color)
 {
-	if ((x < 0) || (x >= ST7789_WIDTH) ||
-		 (y < 0) || (y >= ST7789_HEIGHT))	return;
+	if (((signed)x < 0) || (x >= ST7789_WIDTH) ||
+		 ((signed)y < 0) || (y >= ST7789_HEIGHT))	return;
 	
 	ST7789_SetAddressWindow(x, y, x, y);
 	uint8_t data[] = {color >> 8, color & 0xFF};
@@ -247,8 +247,8 @@ void ST7789_DrawPixel(uint16_t x, uint16_t y, uint16_t color)
  */
 void ST7789_Fill(uint16_t xSta, uint16_t ySta, uint16_t xEnd, uint16_t yEnd, uint16_t color)
 {
-	if ((xEnd < 0) || (xEnd >= ST7789_WIDTH) ||
-		 (yEnd < 0) || (yEnd >= ST7789_HEIGHT))	return;
+	if (((signed)xEnd < 0) || (xEnd >= ST7789_WIDTH) ||
+		 ((signed)yEnd < 0) || (yEnd >= ST7789_HEIGHT))	return;
 	ST7789_Select();
 	uint16_t i, j;
 	ST7789_SetAddressWindow(xSta, ySta, xEnd, yEnd);

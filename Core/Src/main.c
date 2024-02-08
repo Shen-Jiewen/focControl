@@ -18,13 +18,17 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
+#include "fdcan.h"
 #include "spi.h"
+#include "tim.h"
 #include "usart.h"
 #include "gpio.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+#include "stdio.h"
 #include "st7789.h"
+#include "mt6825.h"
 //#include "picture.h"
 /* USER CODE END Includes */
 
@@ -40,7 +44,9 @@
 
 /* Private macro -------------------------------------------------------------*/
 /* USER CODE BEGIN PM */
-
+uint32_t angle = 0;
+char string1[20];
+char string2[20];
 /* USER CODE END PM */
 
 /* Private variables ---------------------------------------------------------*/
@@ -90,11 +96,13 @@ int main(void)
   MX_GPIO_Init();
   MX_SPI3_Init();
   MX_USART3_UART_Init();
+  MX_FDCAN1_Init();
+  MX_TIM2_Init();
+  MX_SPI1_Init();
   /* USER CODE BEGIN 2 */
 	HAL_GPIO_WritePin(LED1_GPIO_Port,LED1_Pin,GPIO_PIN_SET);
 	ST7789_Init();
-	ST7789_Test();
-//	Lcd_ShowPicture(0, 0, 240, 135, gImage_picture1);
+//	ST7789_Test();
 	HAL_GPIO_WritePin(LED2_GPIO_Port,LED2_Pin,GPIO_PIN_SET);
   /* USER CODE END 2 */
 
@@ -104,6 +112,11 @@ int main(void)
   {
 //		HAL_UART_Transmit(&huart3,(uint8_t *)0x11,1,0xffff);
 //		HAL_Delay(20);
+		sprintf(string1,"data:[%u],[%u],[%u]",RxData[0],RxData[1],RxData[2]);
+		ST7789_WriteString(10, 10, string1, Font_7x10, WHITE, BLACK);
+		angle = MT6825SPI_get_angle();
+		sprintf(string2,"angle:[%d]",angle);
+		ST7789_WriteString(10, 25, string2, Font_7x10, WHITE, BLACK);
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
